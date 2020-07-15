@@ -21,7 +21,7 @@ export default function Contact() {
 							<p className="sites__desc contact__desc">
 								Get in touch with us by using the following form or via{' '}
 								<a
-									href="https://m.me/sieroniekuggyofficial"
+									href="https://m.me/pagetify"
 									target="_blank"
 									rel="noopener noreferrer"
 									className="default-link"

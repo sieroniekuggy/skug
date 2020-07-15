@@ -155,7 +155,7 @@ export default function About() {
 								<div className="video__text">
 									<p className="video__title">About us</p>
 									<p className="video__desc">
-										At sKug, we create high-performance websites, apps and
+										At Pagetify, we create high-performance websites, apps and
 										stunning graphics for businesses, bloggers and more.
 									</p>
 									<p className="video__desc">
@@ -166,7 +166,7 @@ export default function About() {
 								</div>
 							</div>
 							<p className="video__desc--center">
-								At sKug, we create high-performance websites, apps and
+								At Pagetify, we create high-performance websites, apps and
 								stunning graphics for businesses, bloggers and more.
 							</p>
 							<div className="video__wrapper">
@@ -206,14 +206,14 @@ export default function About() {
 									<img
 										loading="lazy"
 										src={bz}
-										alt="Silence Ronald"
+										alt="bart zalewski"
 										className="about__avatar"
 									/>
-									<p className="about__dev">Silence Ronald</p>
-									<p className="about__role">Full-Stack Web Developer and Designer</p>
+									<p className="about__dev">Bart Zalewski</p>
+									<p className="about__role">Front-end Developer</p>
 									<div className="about__social">
 										<a
-											href="https://sieroniekuggy.co.zw/"
+											href="https://bartzalewski.com/"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"
@@ -222,7 +222,7 @@ export default function About() {
 											<FontAwesomeIcon icon="globe" className="about__icon" />
 										</a>
 										<a
-											href="https://www.linkedin.com/in/sieroniekuggy/"
+											href="https://www.linkedin.com/in/bartzalewski/"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"
@@ -234,7 +234,7 @@ export default function About() {
 											/>
 										</a>
 										<a
-											href="https://twitter.com/sieroniekuggy"
+											href="https://twitter.com/bartzalewski_"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"
@@ -246,7 +246,7 @@ export default function About() {
 											/>
 										</a>
 										<a
-											href="https://github.com/sieroniekuggy"
+											href="https://github.com/bartzalewski"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"
@@ -263,14 +263,14 @@ export default function About() {
 									<img
 										loading="lazy"
 										src={dg}
-										alt="Silence Ronald"
+										alt="david grzanka"
 										className="about__avatar"
 									/>
-									<p className="about__dev">Silence Ronald</p>
-									<p className="about__role">Creative Designer</p>
+									<p className="about__dev">David Grzanka</p>
+									<p className="about__role">Back-end Developer</p>
 									<div className="about__social">
 										<a
-											href="https://sieroniekuggy.co.zw/"
+											href="https://revore.pl/"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"
@@ -279,7 +279,7 @@ export default function About() {
 											<FontAwesomeIcon icon="globe" className="about__icon" />
 										</a>
 										<a
-											href="https://www.linkedin.com/in/sieroniekuggy/"
+											href="https://www.linkedin.com/in/dawid-grzanka-a84a98180/"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"
@@ -291,7 +291,7 @@ export default function About() {
 											/>
 										</a>
 										<a
-											href="https://twitter.com/sieroniekuggy"
+											href="https://twitter.com/Daw_Grzanka"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"
@@ -303,7 +303,7 @@ export default function About() {
 											/>
 										</a>
 										<a
-											href="https://github.com/sieroniekuggy"
+											href="https://github.com/revoree"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="about__link"

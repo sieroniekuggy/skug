@@ -20,6 +20,7 @@ Link to the website: https://skug.co.zw/
 - RWD
 - SCSS/SASS
 - Composer
+- PHPMailer
 - MomentJS
 - AOS
 - React CountUp
@@ -32,7 +33,7 @@ Link to the website: https://skug.co.zw/
 
 ## How to run?
 
-1. `cd pagetify`
+1. `cd skug`
 2. `npm install`
 3. `npm start`
 
