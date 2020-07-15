@@ -60,7 +60,7 @@ class ContactForm extends Component {
 
         xhr.open(
             'GET',
-            'https://formspree.io/myynbdjw' +
+            'https://pagetdify-api.herokuapp.com/index.php?sendto=' +
             email +
             '&name=' +
             name +
@@ -114,9 +114,7 @@ class ContactForm extends Component {
             } > {
                 emailStatus ? emailStatus : null
             } <
-            form action = "https://formspree.io/myynbdjw"
-            method = "POST"
-            className = "form--flex" >
+            form className = "form--flex" >
             <
             div className = "input-field--flex" >
             <
@@ -210,7 +208,7 @@ class ContactForm extends Component {
             I accept the information contained in the {
                 ' '
             } <
-            a href = "https://skug.co.zw/privacy-policy"
+            a href = "https://pagetidfy.com/privacy-policy"
             target = "_blank"
             rel = "noopener noreferrer"
             className = "default-link" >
